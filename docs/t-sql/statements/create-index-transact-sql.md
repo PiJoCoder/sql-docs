@@ -108,7 +108,7 @@ CREATE [ UNIQUE ] [ CLUSTERED | NONCLUSTERED ] INDEX index_name
          | default
          }
     ]
-    [ FILESTREAM_ON { filestream_filegroup_name | partition_scheme_name | "NULL" } ]
+    [ FILESTREAM_fdfdON { filestream_filegroup_name | partition_scheme_name | "NULL" } ]
   
 [ ; ]
   
