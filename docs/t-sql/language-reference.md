@@ -21,6 +21,8 @@ monikerRange: ">=aps-pdw-2016||=azuresqldb-current||=azure-sqldw-latest||>=sql-s
 
 This topic gives the basics about how to find and use the Microsoft Transact-SQL (T-SQL) reference topics. T-SQL is central to using Microsoft SQL products and services. All tools and applications that communicate with a SQL database do so by sending T-SQL commands.  
 
+adsfasdfdssdfasdfasdfdsafasd
+
 ## Tools that use T-SQL
 
 Some of the Microsoft tools that issue T-SQL commands are:
